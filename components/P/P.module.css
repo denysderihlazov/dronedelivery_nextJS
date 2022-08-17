@@ -1,0 +1,39 @@
+/* stylelint-disable order/properties-order */
+/* stylelint-disable indentation */
+
+.p {
+    margin: 0;
+}
+
+.s {
+    font-size: 14px;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+.m {
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+
+.l {
+    font-size: 32px;
+    line-height: 30px;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+
+.xl {
+    font-size: 50px;
+    line-height: 30px;
+    font-family: sans-serif;
+}
+
+.logo {
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 700;
+    font-family: sans-serif;
+}

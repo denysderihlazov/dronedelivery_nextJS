@@ -1,0 +1,11 @@
+.div {
+    position: relative;
+    display: block;
+    height: 300px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.div p {
+    margin: 20px;
+}
