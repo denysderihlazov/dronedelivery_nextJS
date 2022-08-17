@@ -23,4 +23,4 @@ npm run dev
 http://localhost:3000/
 ```
 - Here is an example of how this application should look like:
-![preview](https://imgur.com/1J2zF1O)
+![preview](https://i.imgur.com/1J2zF1O.png)
