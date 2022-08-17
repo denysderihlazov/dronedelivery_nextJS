@@ -17,7 +17,6 @@ cd drone-app
 npm run dev
 ```
 
-``
 - To see the project in your browser
 ```
 http://localhost:3000/
